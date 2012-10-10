@@ -1,0 +1,10 @@
+#nav ul{
+	border:1px solid #dedede;
+	width:158px;
+}
+#nav > li > ul,
+#nav > li > .drop-slide-wrapper > ul{border-top:0;}
+#nav ul ul{left:172px;}
+#nav .right-side ul ul{right:175px;}
+.nav ul li{padding:0 25px;}
+.btn1{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfbfb', endColorstr='#dedede',GradientType=0 );}
