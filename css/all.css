@@ -130,6 +130,7 @@ select {
 .top-nav > ul > li{float:left;}
 .top-nav > ul > li + li{padding:0 0 0 49px;}
 .top-nav > ul > li > a{color:#fff;}
+.top-nav a.current {text-decoration:underline;}
 .form-holder{overflow:hidden;}
 .search-form{float:right;}
 .search-form label{
